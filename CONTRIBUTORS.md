@@ -300,3 +300,8 @@
 - Bio: Student, Coder, Batman
 - GitHub: [aakash-hacks](https://github.com/aakash-hacks)
 
+#### Name: ABHINAV JHA
+- Place: Mumbai, Maharashtra
+- Bio: Software Enthusiast, Programmer
+- GitHub: [abhinavjha98](https://github.com/abhinavjha98)
+
